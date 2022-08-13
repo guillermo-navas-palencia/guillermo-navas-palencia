@@ -1,16 +1,15 @@
+[![Linkedin](https://img.shields.io/badge/Linkedin-Guillermo-blue?logo=linkedin)](https://www.linkedin.com/in/guillermo-navas-palencia-phd-01015b59/)
+[![Blog](https://img.shields.io/badge/Blog-website-brightgreen)](http://gnpalencia.org/)
+
 ### Hi there 👋
 
-<!--
-**guillermo-navas-palencia/guillermo-navas-palencia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Guillermo Navas-Palencia, a quant and numerical optimizer based in Madrid, Spain.
 
-Here are some ideas to get you started:
+[![Xiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=guillermo-navas-palencia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interests:
+* Python and C++
+* Quantitative Finance
+* Mathematical optimization
+
+I am currently open to interesting job opportunities involving Python/C++ and credit/market risk modelling.
