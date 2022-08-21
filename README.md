@@ -5,11 +5,11 @@
 
 Hello, I'm Guillermo Navas-Palencia, a quant and numerical optimizer based in Madrid, Spain.
 
-[![Xiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=guillermo-navas-palencia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Guillermo's GitHub stats](https://github-readme-stats.vercel.app/api?username=guillermo-navas-palencia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Interests:
 * Python and C++
 * Quantitative Finance
 * Mathematical optimization
 
-I am currently open to interesting job opportunities involving Python/C++ and credit/market risk modelling.
+I am open to job opportunities involving Python/C++, credit/market risk modelling or algorithmic trading.
