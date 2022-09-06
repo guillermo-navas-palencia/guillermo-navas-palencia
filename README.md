@@ -11,5 +11,3 @@ Interests:
 * Python and C++
 * Quantitative Finance
 * Mathematical optimization
-
-I am open to job opportunities involving Python/C++, credit/market risk modelling or algorithmic trading.
