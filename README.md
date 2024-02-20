@@ -7,7 +7,14 @@ Hello, I'm Guillermo Navas-Palencia, a quant and numerical optimizer based in Ma
 
 [![Guillermo's GitHub stats](https://github-readme-stats.vercel.app/api?username=guillermo-navas-palencia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-Interests:
+Interests 📚
 * Python and C++
 * Quantitative Finance
 * Mathematical optimization
+
+Jobs :fire: looking for new opportunities:
+* Credit risk modelling
+* Credit investment
+* Structured Finance
+* Credit derivatives
+* Fixed-income securities
