@@ -12,7 +12,7 @@ Interests 📚
 * Quantitative Finance
 * Mathematical optimization
 
-Jobs :fire: looking for new opportunities:
+Jobs :fire:
 * Credit risk modelling
 * Credit investment
 * Structured Finance
